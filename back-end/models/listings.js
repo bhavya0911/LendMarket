@@ -14,7 +14,7 @@ const schema = new mongoose.Schema({
         required: true,
     },
     amount_loan: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     token_borrow: {
@@ -22,15 +22,15 @@ const schema = new mongoose.Schema({
         required: true,
     },
     amount_borrow: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     amount_repay: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     seed: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     curr_status: {
@@ -38,11 +38,11 @@ const schema = new mongoose.Schema({
         required: true,
     },
     expire_time: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     duration: {
-        type: BigInt,
+        type: Number,
         required: true,
     },
     apr: {
