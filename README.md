@@ -1,3 +1,3 @@
-### SUBMISSION FOR ETHGLOBAL SINGAPORE ###
+# SUBMISSION FOR ETHGLOBAL SINGAPORE #
 
-# Name of the Project: LendMarket #
+### Name of the Project: LendMarket ###
